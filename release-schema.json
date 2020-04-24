@@ -15,7 +15,8 @@
             "$ref": "#/definitions/Classification"
           },
           "uniqueItems": true,
-          "wholeListMerge": true
+          "wholeListMerge": true,
+          "minItems": 1
         }
       }
     }
