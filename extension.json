@@ -3,7 +3,7 @@
     "en": "Tender classification"
   },
   "description": {
-    "en": "Adds an array of Classification objects to Tender in order to categorize the contracting process."
+    "en": "Adds an array of classification objects to the tender object, in order to categorize the procedure as a whole."
   },
   "documentationUrl": {
     "en": "https://github.com/open-contracting-extensions/ocds_tenderClassification_extension"

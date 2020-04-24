@@ -4,12 +4,12 @@
       "properties": {
         "classification": {
           "title": "Tender classification",
-          "description": "The primary classification for the contracting process.",
+          "description": "The primary classification of the contracting process.",
           "$ref": "#/definitions/Classification"
         },
         "additionalClassifications": {
           "title": "Tender additional classifications",
-          "description": "An array of additional classifications for the contracting process.",
+          "description": "Additional classifications of the contracting process.",
           "type": "array",
           "items": {
             "$ref": "#/definitions/Classification"

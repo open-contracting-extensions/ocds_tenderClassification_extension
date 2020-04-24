@@ -1,8 +1,8 @@
 # Tender classification 
 
-Adds an array of Classification objects to Tender in order to categorize the contracting process.
+Adds an array of classification objects to the tender object, in order to categorize the procedure as a whole.
 
-## Guidance
+The items to be procured are expected to have more specific classifications than the procedure as a whole.
 
 ## Legal context
 
