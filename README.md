@@ -10,7 +10,6 @@ In the European Union, this extension's fields correspond to [eForms BG-261 (Cla
 
 ## Example
 
-
 ```json
 {
   "tender": {
