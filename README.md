@@ -1,6 +1,6 @@
-# Tender classification 
+# Tender classification
 
-Adds an array of classification objects to the tender object, in order to categorize the procedure as a whole.
+Adds an array of classification objects to the tender object, in order to categorize the procedure or call-off as a whole.
 
 The items to be procured are expected to have more specific classifications than the procedure as a whole.
 
@@ -39,6 +39,10 @@ In the European Union, this extension's fields correspond to [eForms BG-261 (Cla
 Report issues for this extension in the [ocds-extensions repository](https://github.com/open-contracting/ocds-extensions/issues), putting the extension's name in the issue's title.
 
 ## Changelog
+
+### 2021-01-19
+
+* Add "or call-off" in the description of the extension.
 
 ### 2020-04-24
 

@@ -3,7 +3,7 @@
     "en": "Tender classification"
   },
   "description": {
-    "en": "Adds an array of classification objects to the tender object, in order to categorize the procedure as a whole."
+    "en": "Adds an array of classification objects to the tender object, in order to categorize the procedure or call-off as a whole."
   },
   "documentationUrl": {
     "en": "https://extensions.open-contracting.org/en/extensions/tenderClassification/"
